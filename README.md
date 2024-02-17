@@ -10,7 +10,7 @@ An in-depth analysis of the interrelation between pricing decisions, demand, and
 
 ### Installation and Usage Instructions
 Ensure you have GAMS installed for running the MINLP models.
-Python environment setup is necessary for the NSGA-II algorithm. Install the required libraries as per the provided <requirements.txt> file.
+Python environment setup is necessary for the NSGA-II algorithm. Install the required libraries as per the provided requirements.txt file.
 Follow the instructions in the code comments to set up your problem instances and run the models.
 Analyze the output to understand the trade-offs between profitability and environmental impact under different scenarios.
 
