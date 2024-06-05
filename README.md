@@ -14,11 +14,5 @@ Python environment setup is necessary for the NSGA-II algorithm.
 Follow the instructions in the code comments to set up your problem instances and run the models.
 Analyze the output to understand the trade-offs between profitability and environmental impact under different scenarios.
 
-### Contributing
-Feedback and contributions to this project are welcome, especially in the areas of model refinement, algorithm efficiency, and exploration of additional scenarios within the tire industry's supply chain.
-
 ### Acknowledgments
 This research contributes to the broader understanding of hybrid manufacturing/remanufacturing systems, especially in the context of the automotive tire industry, and addresses critical environmental concerns.
-
-### Contact Information
-For further inquiries or collaboration opportunities, please reach out to t.shahedi@uu.nl.
