@@ -1,6 +1,6 @@
-## GCLSCN-CE
+## GCLSC-CE
 
-This project addresses the optimization of a green closed-loop supply chain network (GCLSCN) for automotive tires, focusing on the interplay between new and remanufactured products. The research highlights the impact of cannibalization on the tire industry and presents two mathematical models for location-inventory-pricing. These models aim to maximize profit while minimizing environmental impact, considering the cannibalization effect (CE). The first model, a non-linear mixed integer mathematical programming (MINLP) with a linear demand-price function, and the second, a MINLP with an inverted-U demand-price function, are solved using the augmented epsilon constraint method2 (Augmecon2) for small and medium-sized problems, and the meta-heuristic algorithm NSGA-II for large-sized problems.
+This project addresses the optimization of a green closed-loop supply chain network (GCLSC) for automotive tires, focusing on the interplay between new and remanufactured products. The research highlights the impact of cannibalization on the tire industry and presents two mathematical models for location-inventory-pricing. These models aim to maximize profit while minimizing environmental impact, considering the cannibalization effect (CE). The first model, a non-linear mixed integer mathematical programming (MINLP) with a linear demand-price function, and the second, a MINLP with an inverted-U demand-price function, are solved using the augmented epsilon constraint method2 (Augmecon2) for small and medium-sized problems, and the meta-heuristic algorithm NSGA-II for large-sized problems.
 
 ### Key Features
 Two sophisticated MINLP models addressing the challenges of the green closed-loop supply chain in the tire industry.
